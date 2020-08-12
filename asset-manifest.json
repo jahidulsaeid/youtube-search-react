@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.da109158.chunk.js",
-    "main.js.map": "/static/js/main.da109158.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f0114904.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f0114904.js.map",
-    "static/css/2.7df41cd5.chunk.css": "/static/css/2.7df41cd5.chunk.css",
-    "static/js/2.4a492728.chunk.js": "/static/js/2.4a492728.chunk.js",
-    "static/js/2.4a492728.chunk.js.map": "/static/js/2.4a492728.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bead8a73c6ea4055de1793eff85865f7.js": "/precache-manifest.bead8a73c6ea4055de1793eff85865f7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.7df41cd5.chunk.css.map": "/static/css/2.7df41cd5.chunk.css.map",
-    "static/js/2.4a492728.chunk.js.LICENSE.txt": "/static/js/2.4a492728.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
+    "main.js": "/yt-videos-search-react/static/js/main.da109158.chunk.js",
+    "main.js.map": "/yt-videos-search-react/static/js/main.da109158.chunk.js.map",
+    "runtime-main.js": "/yt-videos-search-react/static/js/runtime-main.28d17be2.js",
+    "runtime-main.js.map": "/yt-videos-search-react/static/js/runtime-main.28d17be2.js.map",
+    "static/css/2.a52626cc.chunk.css": "/yt-videos-search-react/static/css/2.a52626cc.chunk.css",
+    "static/js/2.4a492728.chunk.js": "/yt-videos-search-react/static/js/2.4a492728.chunk.js",
+    "static/js/2.4a492728.chunk.js.map": "/yt-videos-search-react/static/js/2.4a492728.chunk.js.map",
+    "index.html": "/yt-videos-search-react/index.html",
+    "precache-manifest.a78ba8fcbde472ed6b52e16dbda26491.js": "/yt-videos-search-react/precache-manifest.a78ba8fcbde472ed6b52e16dbda26491.js",
+    "service-worker.js": "/yt-videos-search-react/service-worker.js",
+    "static/css/2.a52626cc.chunk.css.map": "/yt-videos-search-react/static/css/2.a52626cc.chunk.css.map",
+    "static/js/2.4a492728.chunk.js.LICENSE.txt": "/yt-videos-search-react/static/js/2.4a492728.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/yt-videos-search-react/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0114904.js",
-    "static/css/2.7df41cd5.chunk.css",
+    "static/js/runtime-main.28d17be2.js",
+    "static/css/2.a52626cc.chunk.css",
     "static/js/2.4a492728.chunk.js",
     "static/js/main.da109158.chunk.js"
   ]
