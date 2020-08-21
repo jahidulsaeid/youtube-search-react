@@ -1,26 +1,11 @@
-import React from 'react'
+import React from "react";
+import VideoItem from "./VideoItem";
 
-const VideoList = (props) => {
-    return (
-        <div>
-             I have {props.videos.length} videos.
-        </div>
-    )
-}
+const VideoList = ({ videos, onVideoSelect }) => {
+  const renderedList = videos.map((video) => {
+    return <VideoItem key={video.id.videoId} onVideoSelect={onVideoSelect} video={video} />;
+  });
+  return <div className="ui relaxed divided list">{renderedList} </div>;
+};
 
-export default VideoList
-
-// import React, { Component } from 'react'
-
-// export class VideoList extends Component {
-//     render() {
-//         return (
-//             <div>
-//                  I have {this.props.videos.length} videos.
-//             </div>
-//         )
-//     }
-// }
-
-// export default VideoList
-
+export default VideoList;
