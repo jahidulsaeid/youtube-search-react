@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0d2d16578455bb1b1efce1667b0c897",
+    "revision": "b7c220792459ba2c773ccbf6e74b55a4",
     "url": "/yt-videos-search-react/index.html"
   },
   {
-    "revision": "54729692b45a4411d2b5",
+    "revision": "287501f35c0783e76e22",
     "url": "/yt-videos-search-react/static/css/2.a52626cc.chunk.css"
   },
   {
-    "revision": "54729692b45a4411d2b5",
-    "url": "/yt-videos-search-react/static/js/2.4a492728.chunk.js"
+    "revision": "e8ae53909a71e5af11b8",
+    "url": "/yt-videos-search-react/static/css/main.121fcd92.chunk.css"
+  },
+  {
+    "revision": "287501f35c0783e76e22",
+    "url": "/yt-videos-search-react/static/js/2.ab047b7c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/yt-videos-search-react/static/js/2.4a492728.chunk.js.LICENSE.txt"
+    "url": "/yt-videos-search-react/static/js/2.ab047b7c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f2e73b1bb546cebb088",
-    "url": "/yt-videos-search-react/static/js/main.da109158.chunk.js"
+    "revision": "e8ae53909a71e5af11b8",
+    "url": "/yt-videos-search-react/static/js/main.0d42482b.chunk.js"
   },
   {
     "revision": "39b5daec2eab069843dd",

@@ -1,2 +1,0 @@
-(this.webpackJsonpyt_videos=this.webpackJsonpyt_videos||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},9:function(e,t,n){"use strict";n.r(t);var a=n(0),l=n.n(a),r=n(2),c=n.n(r);var i=function(){return l.a.createElement("div",null,l.a.createElement("h1",null,"Jahidul Islam Saeid"))};n(8);c.a.render(l.a.createElement(l.a.StrictMode,null,l.a.createElement(i,null)),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.da109158.chunk.js.map
