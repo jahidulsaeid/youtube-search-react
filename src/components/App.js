@@ -10,7 +10,7 @@ export class App extends Component {
     this.onTermSubmit("buildings");
   }
   onTermSubmit = async (term) => {
-    const KEY = "AIzaSyB_J6JPkUJDmDm8raUUpcpBqulDCib0VuU";
+    const KEY = process.env.REACT_APP_YOUTUBE_API_KEY;
     const response = await youtube.get("/search", {
       params: {
         part: "snippet",
